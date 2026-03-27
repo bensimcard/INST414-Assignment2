@@ -15,7 +15,7 @@ To answer this, the included Python script:
 4. **Calculates Centrality:** Ranks the companies using **In-Degree Centrality** to find out which companies are most frequently referenced by the rest of the industry.
 5. **Visualizes the Network:** Uses `matplotlib` to generate a node-link diagram (`tech_network_organic.png`) demonstrating the core-periphery structure of the network.
 
-## 🛠️ Technologies & Libraries Used
+## Technologies & Libraries Used
 * **Python 3.x**
 * **BeautifulSoup4** (HTML parsing & web scraping)
 * **Urllib / Regular Expressions** (HTTP requests & text extraction)
